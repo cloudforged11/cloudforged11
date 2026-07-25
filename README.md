@@ -1,6 +1,6 @@
 # Hey, I'm Sangeeta 👋
 
-**Senior Database Engineer** | Kafka • Kubernetes • Cloud Infrastructure
+**Software Engineer** | Kafka • Kubernetes • Cloud Infrastructure
 
 I build and operate data platforms at scale — event pipelines, distributed databases, and the infrastructure that keeps them running.
 
